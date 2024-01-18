@@ -1,4 +1,4 @@
-const container = document.querySelector("#container");
+const container = document.querySelector("#gridContainer");
 const gridSquares = [];
 
 for (let y = 0; y < 16; y++) {

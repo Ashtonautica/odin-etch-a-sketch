@@ -1,4 +1,4 @@
-.row {
+.row, #buttonContainer {
     display: flex;
     justify-content: center;
 }
@@ -8,4 +8,12 @@
     aspect-ratio: 1 / 1;
     border: 1px solid black;
     margin: -1px 0 0 -1px;
+}
+
+button {
+    margin: 10px;
+}
+
+body {
+    margin: 0;
 }
